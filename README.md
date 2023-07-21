@@ -5,6 +5,30 @@
 
 </div>
 
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+After you're finished please remove all the comments and instructions!
+-->
+
+
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -21,6 +45,7 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [:question: FAQ](#faq)
+- 
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -88,7 +113,7 @@ decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . .
 - [GitHub](https://github.com/musangamfure)
 - [Twitter](https://twitter.com/musangamfure)
 - [LinkedIn](https://www.linkedin.com/in/musangamfurae)
-  
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -105,7 +130,7 @@ decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . .
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/musangamfure/Decode-Morse-Code/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,6 +139,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 Please support this project and be a part of something meaningful and impactful. Your contribution can make a significant difference and help us achieve our goals faster.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
